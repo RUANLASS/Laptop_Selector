@@ -92,5 +92,4 @@ def Select():
         else:
             continue
 Select()
-d2=pd.read_csv("Available_Laptops.csv")
-print(d2)
+
