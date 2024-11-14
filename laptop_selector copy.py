@@ -4,7 +4,7 @@ data=pd.read_csv("laptop.csv")
 import csv
 f=open("laptop.csv","r")
 creader = csv.reader(f)
-f2=open("Available_Laptops.csv","w+")
+f2=open("Available_Laptops.csv","w")
 cwriter=csv.writer(f2)
 
 
