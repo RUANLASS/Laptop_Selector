@@ -1,1 +1,3 @@
 # Laptop_Selector
+First project working with a big dataset. Involves skills related to file handling and data manipulation. 
+Program is a Laptop Selector from provided dataset ("Laptop.csv", downloaded from Kaggle https://www.kaggle.com/datasets/abdelrahmanemad594/laptop-prices/data) according to choices and preferences picked by the user of the program. In order to maintain simplicity and ease of use for the user, menu type program has been created. Rows are selected from csv file by creating logical expressions based on user given inputs. Final filtered list is displayed as output and is added to another csv file called "Available_Laptops.csv" which is basically like the shopping cart in an e-commerce website. 
